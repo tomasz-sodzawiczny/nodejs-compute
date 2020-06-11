@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/compute?activeTab=versions
 
+### [2.0.1](https://www.github.com/googleapis/nodejs-compute/compare/v2.0.0...v2.0.1) (2020-06-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gce-images to v3 ([#443](https://www.github.com/googleapis/nodejs-compute/issues/443)) ([c861b8c](https://www.github.com/googleapis/nodejs-compute/commit/c861b8c0754cecfa15cef22be3c030bb146ce987))
+
 ## [2.0.0](https://www.github.com/googleapis/nodejs-compute/compare/v1.2.0...v2.0.0) (2020-05-08)
 
 
